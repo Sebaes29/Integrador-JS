@@ -1,0 +1,126 @@
+#cba{
+  position: relative;
+    margin-left: 40px;
+}
+
+#laco{
+  color: grey;
+  position: relative;
+    margin-left: 250px;
+}
+#lugar{
+  color: grey;
+  position: relative;
+    margin-left: 40px;
+}
+#losora{
+  color: grey;
+  position: relative;
+    margin-left: 40px;
+}
+#convier{
+  color: aliceblue;
+  position: relative;
+    margin-left: 40px;
+}
+#tike{
+  color: green;
+  position: relative;
+    margin-left: 40px;
+}
+
+#contain{
+  display: flex;
+  justify-content: center;
+
+  
+}
+
+.card-text{
+  text-align: center;
+  font-weight: bold;
+}
+.card-title{
+  text-align: center;
+  font-weight: bold;
+}
+.card-subtitle{
+  text-align: center;
+}
+.docu{
+  text-align: center;
+}
+
+.venta{
+  text-align: center;
+}
+
+#vent{
+  font-weight: bold;
+  font-size: 40px;
+}
+#nombre{
+  width: 350px;
+}
+#apellido{
+  width: 350px;
+}
+#correo{
+  position: relative;
+    margin-left: 310px;
+  width: 727px;
+}
+#cantidad{
+  width: 350px;
+}
+#categoria{
+  width: 350px;
+}
+#total{
+  position: relative;
+    margin-left: 310px;
+  width: 727px;
+  background-color: rgb(83, 196, 196);
+}
+#borrar{
+  width: 350px;
+  background-color: rgb(105, 155, 30);
+}
+#resumen{
+  width: 350px;
+  background-color: rgb(105, 155, 30);
+}
+#abajo{
+  background-color: rgb(4, 46, 40);
+  }
+#navbarNav{
+  justify-content: center;
+}
+#preg{
+  position: relative;
+  margin-left: 15px;
+}
+#contac{
+  position: relative;
+  margin-left: 30px;
+}
+#prensa{
+  position: relative;
+  margin-left: 45px;
+}
+#confes{
+  position: relative;
+  margin-left: 60px;
+}
+#termin{
+  position: relative;
+  margin-left: 75px;
+}
+#priva{
+  position: relative;
+  margin-left: 95px;
+}
+#estu{
+  position: relative;
+  margin-left: 110px;
+}
